@@ -5,6 +5,7 @@
 // @description  在网易云音乐自动发布图文笔记（配乐动态），发布成功后自动删除，仅用于完成音乐人任务指标。
 // @author       YPJCoding
 // @license      MIT
+// @icon         https://s1.music.126.net/style/favicon.ico
 // @homepageURL  https://github.com/YPJCoding/netease-musician-helper
 // @supportURL   https://github.com/YPJCoding/netease-musician-helper/issues
 // @match        https://music.163.com/*
