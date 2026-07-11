@@ -14,6 +14,10 @@
 3. （可选）修改文案内容、配乐关键词、删除等待时间
 4. 点击「发布动态」
 
+## 截图
+
+![截图](https://github.com/YPJCoding/netease-musician-helper/raw/main/screenshot.png)
+
 ## 功能
 
 - 自动生成带日期的默认文案（如"2026年07月11日 17:30 分享音乐"）
