@@ -5,7 +5,7 @@
 ## 安装
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. [点击安装脚本](https://github.com/YPJCoding/netease-musician-helper/raw/main/netease-musician-publish.user.js)
+2. [点击安装脚本](https://github.com/YPJCoding/netease-musician-helper/raw/main/netease-musician-helper.user.js)
 
 ## 使用方法
 
