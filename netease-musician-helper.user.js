@@ -217,10 +217,12 @@
 
     /** 面板拖拽（全局仅绑定一次 document 事件，避免泄漏） */
     let _dragPanel = null;
+    let _dragInstalled = false;
     let _dragData = { dragging: false, startX: 0, startY: 0, startLeft: 0, startTop: 0 };
 
     function _installDragOnce() {
-        if (_dragPanel) return; // 已安装
+        if (_dragInstalled) return;
+        _dragInstalled = true;
 
         document.addEventListener("mousemove", (e) => {
             if (!_dragData.dragging || !_dragPanel) return;
