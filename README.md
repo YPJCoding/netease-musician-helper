@@ -16,7 +16,7 @@
 
 ## 截图
 
-![截图](https://github.com/YPJCoding/netease-musician-helper/raw/main/screenshot.png?t=20260711)
+![截图](preview.png)
 
 ## 功能
 
